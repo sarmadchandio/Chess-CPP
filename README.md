@@ -11,7 +11,7 @@ game.exe
 ```
 
 ### Game Mechanics
-This is how the start screen looks like
+This is how the start screen looks like.
 ![Start](/Imgs/StartScreen.png)
 You can move the units using the blocks of the board A0, A1 etc
 If you try to make an invalid move it will give an error.
