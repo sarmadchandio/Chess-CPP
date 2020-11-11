@@ -2,13 +2,13 @@
 #include <stdlib.h>
 #include <windows.h>
 
-#include "ChessPiece.h"
-#include "Bishop.h"
-#include "King.h"
-#include "Knight.h"
-#include "Pawn.h"
-#include "Queen.h"
-#include "Rook.h"
+#include "ChessPiece.cpp"
+#include "Bishop.cpp"
+#include "King.cpp"
+#include "Knight.cpp"
+#include "Pawn.cpp"
+#include "Queen.cpp"
+#include "Rook.cpp"
 
 
 
