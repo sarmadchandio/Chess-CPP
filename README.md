@@ -1,5 +1,5 @@
-# Chess-Cs200-proj
-One of the very first projects! There is a room for a lot of improvements.
+# Chess-CS200-proj
+One of the very first projects (Sophomore year)! There is a room for a lot of improvements.
 I made console-based chess game using Inheritence. The main code for the chess board is in Source.cpp where as each of the chess pieces have their own class.
 
 ### Compiling
